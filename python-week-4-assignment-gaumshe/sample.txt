@@ -1,0 +1,4 @@
+Hello, this is a sample file!
+It contains multiple lines of text.
+We will modify this content and save it to a new file.
+Feel free to modify this text or create your own input file.
