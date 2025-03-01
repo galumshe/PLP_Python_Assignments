@@ -8,6 +8,8 @@ Use the input() function to ask the user for their location and store it in a va
 Print out a personalized message using the user's name, age, and location. For example: "Hello [name], you are [age] years old and live in [location]."
 Save and run the program to see the output.
 
+Explain what software engineering is and discuss its importance in the technology industry
+software engineering is a branch of computer science used for developing, testing and maintaining software.
 
 
 
